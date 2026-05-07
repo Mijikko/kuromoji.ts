@@ -2,6 +2,10 @@
 
 ## Node.js
 
+> [!IMPORTANT]
+> Require **Node.js v22 or more**. \
+> If you want to use TypeScript, also require **TypeScript v6 or more**.
+
 1. Install dependency with npm.
 
 ```

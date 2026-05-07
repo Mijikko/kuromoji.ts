@@ -1,6 +1,7 @@
 {
   "name": "kuromoji.ts",
-  "version": "1.1.0",
+  "description": "TypeScript implementation of Japanese morphological analyzer",
+  "version": "1.1.1",
   "type": "module",
   "files": [
     "NOTICE.md",

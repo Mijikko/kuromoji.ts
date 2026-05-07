@@ -24,6 +24,10 @@
   "bugs": {
     "url": "https://github.com/Mijikko/kuromoji.ts/issues"
   },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=10.0.0"
+  },
   "scripts": {
     "dev": "vite",
     "build-demo": "run-p type-check build-only-demo",

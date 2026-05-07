@@ -2,6 +2,10 @@
 
 ## Node.js
 
+> [!IMPORTANT]
+> **Node.js v22以上**が必要です。 \
+> TypeScriptも使用する場合は、**TypeScript v6以上**も必要になります。
+
 1. npmでインストールします。
 
 ```

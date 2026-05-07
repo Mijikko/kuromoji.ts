@@ -15,7 +15,7 @@ declare class TokenInfoDictionary {
     };
     put(left_id: number, right_id: number, word_cost: number, surface_form: string, feature: string): number;
     addMapping(source: number, target: number): void;
-    targetMapToBuffer(): Uint8Array;
+    targetMapToBuffer(): Uint8Array<ArrayBufferLike>;
     loadDictionary(array_buffer: Uint8Array): this;
     loadPosVector(array_buffer: Uint8Array): this;
     loadTargetMap(array_buffer: Uint8Array): this;

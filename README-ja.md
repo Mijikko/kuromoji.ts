@@ -1,6 +1,6 @@
 # kuromoji.ts
 
-[![Build Status](https://github.com/MijinkoSD/kuromoji.ts/actions/workflows/build.yml/badge.svg)]() [![Test Status](https://github.com/MijinkoSD/kuromoji.ts/actions/workflows/run-test.yml/badge.svg)]() [![Deploy Pages Status](https://github.com/MijinkoSD/kuromoji.ts/actions/workflows/deploy-github-pages.yml/badge.svg)]()
+[![Build Status](https://github.com/Mijikko/kuromoji.ts/actions/workflows/build.yml/badge.svg)]() [![Test Status](https://github.com/Mijikko/kuromoji.ts/actions/workflows/run-test.yml/badge.svg)]() [![Deploy Pages Status](https://github.com/Mijikko/kuromoji.ts/actions/workflows/deploy-github-pages.yml/badge.svg)]()
 ![Coverage (Lines)](./docs/images/coverage/lines-badge.svg) ![Coverage (Statements)](./docs/images/coverage/statements-badge.svg) ![Coverage (Functions)](./docs/images/coverage/functions-badge.svg) ![Coverage (Branches)](./docs/images/coverage/branches-badge.svg)
 
 <!-- [![npm version](https://badge.fury.io/js/kuromoji.svg)](https://badge.fury.io/js/kuromoji) -->
@@ -8,7 +8,7 @@
 TypeScriptで実装された形態素解析ライブラリです。  
 JavaScriptで実装された[kuromoji.js](https://github.com/takuyaa/kuromoji.js)から移植されました。
 
-実際の動作は[デモページ](https://MijinkoSD.github.io/kuromoji.ts/index.html)から確認することが出来ます。
+実際の動作は[デモページ](https://Mijikko.github.io/kuromoji.ts/index.html)から確認することが出来ます。
 
 ## ディレクトリ構造
 

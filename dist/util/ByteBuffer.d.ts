@@ -9,7 +9,7 @@ declare class ByteBuffer {
     constructor(arg?: number | Uint8Array);
     size(): number;
     reallocate(): void;
-    shrink(): Uint8Array;
+    shrink(): Uint8Array<ArrayBufferLike>;
     put(b: number): void;
     get(index?: number): number;
     putShort(num: number): void;

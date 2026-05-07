@@ -30,7 +30,7 @@ jobs:
         run: pnpm install
 
       - name: Run Unit Tests
-        run: pnpm dlx vitest --coverage
+        run: pnpm exec vitest --coverage
 
       - name: Publish Results Badge (Lines)
         uses: wjervis7/vitest-badge-action@v1.0.0

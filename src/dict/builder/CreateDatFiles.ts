@@ -3,6 +3,7 @@ import IPADic from "mecab-ipadic-seed";
 import kuromoji from "../../kuromoji.js";
 import DictionaryBuilder from "./DictionaryBuilder.js";
 import { pathJoin } from "../../util/PathJoin.js";
+import type { ArrayBuffer } from "doublearray.ts/dist/types.js";
 
 const outDir = "dict-uncompressed/";
 
